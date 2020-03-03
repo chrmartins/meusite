@@ -4,7 +4,7 @@ export const Img = styled.div`
 
   display: flex;
   align-items: center;
-  padding: 10px;
+  padding: 15px;
   
  
   img { 
@@ -16,6 +16,7 @@ export const Img = styled.div`
 
   h1{
     margin-left: 20px;
+    font-size: 25px;
   }
   
 `

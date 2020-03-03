@@ -26,7 +26,7 @@ h1{
 
 /* Container for skill bars */
 .container {
-  width: 60%; /* Full width */
+  width: 100%; /* Full width */
   background-color: #ddd; /* Grey background */
   
 }
