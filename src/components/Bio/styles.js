@@ -2,13 +2,12 @@ import styled from 'styled-components'
 
 export const  TextBio = styled.div`
 
-  /* margin: 20px; */
   font-family: 'Spartan', sans-serif;
  
   h1{
-    margin: 40px;
+    margin-top: 40px;
     text-align: center;
-    font-size: 15px;
+    font-size: 18px;
   }
   
   
@@ -18,7 +17,7 @@ export const  TextBio = styled.div`
     margin-top: 10px;
     margin-left: auto;
     margin-right: auto;
-    width: 60em;
+    width: 100%;
     color: #607D8B;
     font-size: 17px;
     line-height: 30px;

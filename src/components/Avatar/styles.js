@@ -8,7 +8,7 @@ export const Img = styled.div`
   
  
   img { 
-  border-radius: 100%;
+  border-radius: 50%;
   height: 100px;
   object-fit: cover;
   width: 100px;  
