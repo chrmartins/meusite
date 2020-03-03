@@ -5,7 +5,7 @@ export const Container = styled.div`
   header {
     padding: 10px;
     width: 100%;
-    height: 100px;
+    height: 115px;
     background-color: #000;
     text-align: center;
     font-family: 'Open Sans';
