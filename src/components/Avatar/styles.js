@@ -3,19 +3,18 @@ import styled from 'styled-components'
 export const Img = styled.div`
 
   display: flex;
-  margin-top: 50px;
   align-items: center;
-  justify-content: center;
-
-
+  padding: 10px;
+ 
   img {
-  background-color: #ddd;
   border-radius: 100%;
-  height: 200px;
+  height: 100px;
   object-fit: cover;
-  width: 200px;  
-    
-    
+  width: 100px;  
+  }
+
+  h1{
+    margin-left: 20px;
   }
   
 `

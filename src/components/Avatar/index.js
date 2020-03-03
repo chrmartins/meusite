@@ -5,7 +5,8 @@ import avatar from '../../img/meuavatar.png'
 export default function Avatar() {
   return (
     <Img>
-      <img src={avatar}/>
+      <img src={avatar} alt='Avatar'/>
+      <h1>Christian Martins</h1>
     </Img>
   )
 }
