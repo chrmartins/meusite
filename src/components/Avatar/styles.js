@@ -5,9 +5,9 @@ export const Img = styled.div`
   display: flex;
   align-items: center;
   padding: 10px;
+  
  
-  img {
-  margin: 5px;  
+  img { 
   border-radius: 100%;
   height: 100px;
   object-fit: cover;

@@ -18,7 +18,7 @@ margin: 50px;
     text-align: justify;
     margin-left: auto;
     margin-right: auto;
-    width: ;
+    width: 90%;
     color: #607D8B;
     font-size: 17px;
     line-height: 30px;
