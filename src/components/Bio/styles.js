@@ -2,8 +2,7 @@ import styled from 'styled-components'
 
 export const  TextBio = styled.div`
 
-  
-  margin-top: 50px;
+  margin: 20px;
   font-family: 'Spartan', sans-serif;
  
   h1{
