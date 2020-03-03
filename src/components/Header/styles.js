@@ -3,7 +3,7 @@ import styled from 'styled-components'
 export const Container = styled.div`
 
   header {
-    padding: 10px;
+    padding: 20px;
     width: 100%;
     height: 115px;
     background-color: #000;
@@ -14,13 +14,13 @@ export const Container = styled.div`
   
   h1 {
     color: #fff;
-    font-size: 30px;
+    font-size: 28px;
   }
 
   h2{
-    padding-top: 10px;
+    padding-top: 15px;
     color: #9E9E9E;
-    font-size: 15px;
+    font-size: 11px;
   }
  
 `
