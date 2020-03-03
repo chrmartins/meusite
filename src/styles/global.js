@@ -7,18 +7,9 @@ export default createGlobalStyle`
         padding:0;
         outline: 0;
         box-sizing: border-box;
-        
-    }
-    html, body, #root {
-        height: 100%;
-        
-    }
-    body {
-        
-        font: 14px 'Roboto', sans-serif;
-        background: #FFF;
-        color: #607D8B;
         -webkit-font-smoothing: antialiased !important;
+   
+
         
     }
     
