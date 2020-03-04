@@ -9,9 +9,9 @@ export const Img = styled.div`
  
   img { 
   border-radius: 50%;
-  height: 100px;
+  height: 150px;
   object-fit: cover;
-  width: 100px;  
+  width: 150px;  
   }
 
   h1{

@@ -19,7 +19,7 @@ body {
 
 .header {
   overflow: hidden;
-  background-color: #001B48;
+  background-color: #000;
   padding: 20px 10px;
   font-family: Spartan, sans-serif;
 }

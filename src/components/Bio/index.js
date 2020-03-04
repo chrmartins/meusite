@@ -1,10 +1,12 @@
 import React from 'react'
 import { TextBio } from './styles'
+import Avatar from '../Avatar'
 
 export default function Bio() {
   return (
     <TextBio>
       <h1>Web Developer | Javascript | NodeJS | ReactJS | React Native</h1>
+      <span><Avatar /></span>
       <p>
       Após 23 anos atuando para uma empresa estatal, decidi abrir mão da “estabilidade governamental” e me entregar ao sonho de trabalhar exclusivamente com minha paixão: desenvolvimento web. 
       A TI sempre fez parte da minha vida, mas apenas como hobby. Agora, aos 46 anos de idade, decidi fazer dela também a minha profissão. 

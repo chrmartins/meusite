@@ -9,6 +9,13 @@ export const  TextBio = styled.div`
     text-align: center;
     font-size: 18px;
   }
+
+  span {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
   
   
   p{
