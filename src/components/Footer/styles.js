@@ -3,7 +3,6 @@ import styled from 'styled-components'
 export const Container = styled.div`
 
 * {
-  margin-top: 100px;
   font-family: 'Spartan', sans-serif;
 }
 
@@ -26,7 +25,7 @@ section {
 	width: 100%;
 	text-align: left;
 	font: bold 16px sans-serif;
-	padding: 55px 50px;
+	padding: 35px 50px;
 }
 
 .footer-distributed .footer-left,
