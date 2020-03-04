@@ -2,7 +2,11 @@ import styled from "styled-components";
 
 export const Container = styled.div`
   font-family: "Spartan", sans-serif;
-  margin:   50px 10px 100px 10px;
+  margin:   40px 100px 50px 100px;
+  padding: 20px;
+  box-shadow: 5px 5px 10px #0076a3;
+  -webkit-box-shadow: 5px 5px 10px #0076a3;
+  -moz-box-shadow: 5px 5px 10px #0076a3;
   
 
   h1 {
@@ -16,6 +20,7 @@ export const Container = styled.div`
     box-sizing: border-box;
     align-items: center;
     justify-content: center;
+    
   }
 
   p {

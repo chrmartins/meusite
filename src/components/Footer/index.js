@@ -29,7 +29,7 @@ export default function Footer() {
 
           <div>
             <i class="fas fa-map-marker-alt"></i>
-            <p><span>Rua Armando Santos, 130 - Casa 02</span>Recreio - Rio de Janeiro - RJ</p>
+            <p>Recreio - Rio de Janeiro - RJ</p>
           </div>
 
           <div>
@@ -47,7 +47,7 @@ export default function Footer() {
         <div class="footer-right">
 
           <p class="footer-company-about">
-            <span>About the company</span>
+            <span>Christian Martins</span>
             Desenvolvedor web, estudante de Análise e desenvolvimento de sistemas, Javascript e todo seu ecossistema.</p>
 
           <div class="footer-icons">
