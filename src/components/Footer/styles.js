@@ -3,12 +3,14 @@ import styled from 'styled-components'
 export const Container = styled.div`
 
 * {
+  margin-top: 100px;
   font-family: 'Spartan', sans-serif;
 }
 
 section {
   width: 100%;
   display: inline-block;
+  margin-top: 40px;
   background: #333;
   height: 50vh;
   text-align: center;
