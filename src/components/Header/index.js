@@ -7,8 +7,14 @@ export default function Header() {
     return (
         <>
             <Container>
-                <Avatar />
-                <Menu />        
+                <div className="header">
+                <a href="#default" className="logo">Christian Martins</a>
+                <div className="header-right">
+                    <a className="active" href="#home">Home</a>
+                    <a href="#contact">Contato</a>
+                    <a href="#about">Sobre</a>
+                </div>
+                </div>     
             </Container>
         </>
     )
