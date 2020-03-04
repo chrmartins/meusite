@@ -38,9 +38,14 @@ h1{
   color: white; /* White text color */
 }
 
-.html {width: 90%; background-color: #4CAF50;} /* Green */
-.css {width: 80%; background-color: #2196F3;} /* Blue */
-.js {width: 65%; background-color: #f44336;} /* Red */
-.php {width: 60%; background-color: #808080;} /* Dark Grey */
+.Javascript {width: 90%; background-color: #513485;} /* Green */
+.NodeJS {width: 70%; background-color: #758B5C;} /* Blue */
+.ReactJS {width: 80%; background-color: #7E5AB8;} /* Red */
+.ReactNative {width: 60%; background-color: #D79CD2;} /* Dark Grey */
+.html5 {width: 90%; background-color: #FB6602;}
+.css3 {width: 80%; background-color: #F6A705;}
+.bd {width: 90%; background-color: #663845;}
+.vueJS {width: 50%; background-color: #73C088;}
+
 
 `

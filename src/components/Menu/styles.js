@@ -8,6 +8,7 @@ export const Container = styled.div`
   a {
     color: #FFF;
     text-decoration: none;
-    margin-right: 50px;
+    margin-right: 20px;
+    font-size: 15px;
   }
 `

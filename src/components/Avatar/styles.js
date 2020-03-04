@@ -16,7 +16,7 @@ export const Img = styled.div`
 
   h1{
     margin-left: 20px;
-    font-size: 25px;
+    font-size: 20px;
   }
   
 `
