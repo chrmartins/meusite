@@ -24,7 +24,7 @@ export default function Footer() {
             <a href="#">Contact</a>
           </p> */}
 
-          <p class="footer-company-name">Christian Martins © 2020</p>
+          <p class="footer-company-name">© 2020</p>
         </div>
 
         <div class="footer-center">
