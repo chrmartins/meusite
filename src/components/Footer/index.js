@@ -31,7 +31,7 @@ export default function Footer() {
 
           <div>
             <i><FontAwesomeIcon icon="map-marker-alt"/></i>
-            <p>Recreio dos Bandeirantes - Rio de Janeiro - RJ</p>
+            <p>Recreio dos Bandeirantes - Rio de Janeiro</p>
           </div>
 
           <div>
