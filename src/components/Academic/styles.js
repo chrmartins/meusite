@@ -8,6 +8,8 @@ export const Container = styled.div`
   box-shadow: 0 5px 5px rgba(0,0,0,0.1);
   background: linear-gradient(0deg, #fff, #fff);
   transition: .5s;
+  color: #3c4859;
+ 
 
   
 

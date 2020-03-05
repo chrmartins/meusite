@@ -8,14 +8,14 @@ export const  TextBio = styled.div`
     margin-top: 40px;
     text-align: center;
     font-size: 25px;
-    color: #455054;
+    color: #3c4859;
   }
 
   h2 {
     margin-top: 20px;
     text-align: center;
     font-size: 15px;
-    color: #455054;
+    color: #3c4859;
   }
 
   span {
@@ -33,7 +33,7 @@ export const  TextBio = styled.div`
     margin-left: auto;
     margin-right: auto;
     width: 100%;
-    color: #455054;
+    color: #3c4859;
     font-size: 16px;
     line-height: 30px;
     letter-spacing: opx;
