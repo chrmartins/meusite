@@ -16,8 +16,8 @@ function App() {
       <Header />
       <Bio />
       <Skills />
-      <Academic />
       <Experience />
+      <Academic />
       <Footer />
       <GlobalStyle />
     </>
