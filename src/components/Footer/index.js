@@ -49,8 +49,9 @@ export default function Footer() {
         <div class="footer-right">
 
           <p class="footer-company-about">
-            <span>Christian Martins</span>
-            Desenvolvedor web, estudante de Análise e desenvolvimento de sistemas de informação, Javascript e todo seu ecossistema.</p>
+            <span>Web Developer</span>
+            Estudante de Análise e desenvolvimento de sistemas de informação, Javascript, NodeJS, React,
+            React Native e todo ecossistema envolvido.</p>
         
         </div>
 
