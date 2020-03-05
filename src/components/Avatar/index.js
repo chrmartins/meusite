@@ -1,6 +1,6 @@
 import React from 'react'
 import { Img } from './styles'
-import avatar from '../../img/meuavatar.png'
+import avatar from '../../img/meuavatar.webp'
 import SocialLinks from '../SocialLinks'
 
 export default function Avatar() {

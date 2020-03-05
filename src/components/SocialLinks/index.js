@@ -4,8 +4,6 @@ import { Container } from './styles'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {
   faGithub,
-  faYoutube,
-  faFacebook,
   faTwitter,
   faInstagram,
   faLinkedin,
@@ -21,8 +19,9 @@ export default function SocilLinks() {
         <li>
             <a 
               href='https://github.com/chrmartins'
-              classname='Github'
+              className='Github'
               target="_blank"
+              rel="noopener noreferrer"
             >
               <FontAwesomeIcon icon={ faGithub } size='2x' />
             </a>
@@ -31,8 +30,9 @@ export default function SocilLinks() {
         <li>
           <a 
             href='https://twitter.com/chri37ian'
-            classname='Twitter'
+            className='Twitter'
             target="_blank"
+            rel="noopener noreferrer"
           >
             <FontAwesomeIcon icon={ faTwitter } size='2x' />
           </a>
@@ -41,8 +41,9 @@ export default function SocilLinks() {
         <li>
           <a 
             href='https://www.linkedin.com/in/chrmartins'
-            classname='Linkedin'
+            className='Linkedin'
             target="_blank"
+            rel="noopener noreferrer"
           >
             <FontAwesomeIcon icon={ faLinkedin } size='2x' />
           </a>
@@ -51,8 +52,9 @@ export default function SocilLinks() {
         <li>
           <a 
             href='https://www.instagram.com/chrmartins'
-            classname='Instagram'
+            className='Instagram'
             target="_blank"
+            rel="noopener noreferrer"
           >
             <FontAwesomeIcon icon={ faInstagram } size='2x' />
           </a>

@@ -10,9 +10,9 @@ export default function Footer() {
     <Container>
 
 
-      <footer class="footer-distributed">
+      <footer className="footer-distributed">
 
-        <div class="footer-left">
+        <div className="footer-left">
 
           <h3>CHR3 <span>Web</span></h3>
 
@@ -24,10 +24,10 @@ export default function Footer() {
             <a href="#">Contact</a>
           </p> */}
 
-          <p class="footer-company-name">© 2020</p>
+          <p className="footer-company-name">© 2020</p>
         </div>
 
-        <div class="footer-center">
+        <div className="footer-center">
 
           <div>
             <i><FontAwesomeIcon icon="map-marker-alt"/></i>
@@ -46,9 +46,9 @@ export default function Footer() {
 
         </div>
 
-        <div class="footer-right">
+        <div className="footer-right">
 
-          <p class="footer-company-about">
+          <p className="footer-company-about">
             <span>Web Developer</span>
             Estudante de Análise e desenvolvimento de sistemas de informação, Javascript, NodeJS, React,
             React Native e todo ecossistema envolvido.</p>
