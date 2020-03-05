@@ -11,6 +11,13 @@ export const  TextBio = styled.div`
     color: #455054;
   }
 
+  h2 {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 18px;
+    color: #455054;
+  }
+
   span {
     margin-top: 30px;
     display: flex;

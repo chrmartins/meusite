@@ -5,7 +5,8 @@ import Avatar from '../Avatar'
 export default function Bio() {
   return (
     <TextBio>
-      <h1>Web Developer | Javascript | NodeJS | ReactJS | React Native</h1>
+      <h1>Web Developer</h1>
+      <h2>Javascript | NodeJS | ReactJS | React Native</h2>
       <span><Avatar /></span>
       <p>
       Após 23 anos atuando para uma empresa estatal, decidi abrir mão da “estabilidade governamental” e me entregar ao sonho de trabalhar exclusivamente com minha paixão: desenvolvimento web. 
