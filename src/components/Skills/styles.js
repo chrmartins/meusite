@@ -25,6 +25,7 @@ export const Container = styled.div`
 
   p {
     padding: 5px;
+    font-weight: bold;
   }
 
   /* Container for skill bars */
