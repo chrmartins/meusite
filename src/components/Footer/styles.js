@@ -2,6 +2,7 @@ import styled from 'styled-components'
 
 export const Container = styled.div`
 
+
 * {
   font-family: 'Spartan', sans-serif;
 }
@@ -74,16 +75,18 @@ section {
 	font-size: 14px;
 	font-weight: normal;
 	margin: 0;
+  margin-top: 40px;
 }
 
 /* Footer Center */
 
 .footer-distributed .footer-center{
 	width: 35%;
+  color: white;
 }
 
 .footer-distributed .footer-center i{
-	background-color:  #33383b;
+
 	color: #ffffff;
 	font-size: 25px;
 	width: 38px;
@@ -98,6 +101,7 @@ section {
 .footer-distributed .footer-center i.fa-envelope{
 	font-size: 17px;
 	line-height: 38px;
+  
 }
 
 .footer-distributed .footer-center p{

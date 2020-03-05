@@ -45,10 +45,10 @@ body {
   color: black;
 }
 
-.header a.active {
+/* .header a.active {
   background-color: #018ABE;
   color: white;
-}
+} */
 
 .header-right {
   float: right;

@@ -5,6 +5,10 @@ import Bio from './components/Bio'
 import Skills from './components/Skills'
 import Footer from './components/Footer';
 import Academic from './components/Academic'
+import Experience from './components/Experience';
+
+
+
 
 function App() {
   return (
@@ -13,6 +17,7 @@ function App() {
       <Bio />
       <Skills />
       <Academic />
+      <Experience />
       <Footer />
       <GlobalStyle />
     </>

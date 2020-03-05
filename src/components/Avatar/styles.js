@@ -2,7 +2,7 @@ import styled from 'styled-components'
 
 export const Img = styled.div`
 
-  display: flex;
+  display: column;
   align-items: center;
   padding: 15px;
   

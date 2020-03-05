@@ -6,8 +6,8 @@ export default function Academic() {
     <Container>
 
       <h1>Formação</h1>
-      <h2>Universidade Estácio de Sá</h2>
-      <p>Análise e Desenvolvimento de Sistemas de Informação</p>
+      <h2>Análise e Desenvolvimento de Sistemas de Informação</h2>
+      <p>Universidade Estácio de Sá</p>
       <p>2018 - 2020</p>
       
     </Container>
