@@ -14,7 +14,7 @@ export const  TextBio = styled.div`
   h2 {
     margin-top: 20px;
     text-align: center;
-    font-size: 18px;
+    font-size: 15px;
     color: #455054;
   }
 
