@@ -16,5 +16,13 @@ ul li{
   a{
     color: #000;
   }
+
+  a:hover{
+    color: #018ABE;
+  }
+
+
+
+  
   
 `
