@@ -49,7 +49,8 @@ export default function Footer() {
         <div className="footer-right">
 
           <p className="footer-company-about">
-            <span>Web Developer</span>
+
+          <span>Web Developer</span>
             Estudante de Análise e desenvolvimento de sistemas de informação, Javascript, NodeJS, React,
             React Native e todo ecossistema envolvido.</p>
         
@@ -59,3 +60,5 @@ export default function Footer() {
     </Container>
   )
 }
+
+// 

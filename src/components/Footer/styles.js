@@ -58,7 +58,7 @@ section {
 
 .footer-distributed .footer-links{
 	color:  #ffffff;
-	margin: 20px 0 12px;
+	margin: 25px 0 12px;
 	padding: 0;
 }
 
