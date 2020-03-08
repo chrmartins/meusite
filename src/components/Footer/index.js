@@ -41,7 +41,7 @@ export default function Footer() {
 
           <div>
           <i><FontAwesomeIcon icon="envelope"/></i>
-            <p><a href="contato@chrmartins.com">contato@chrmartins.com</a></p>
+            <p><a href="mailto:contato@chrmartins.com">contato@chrmartins.com</a></p>
           </div>
 
         </div>
