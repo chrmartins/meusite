@@ -15,7 +15,7 @@ ul li{
 
   a{
     color: #000;
-    transition: 0.5s;
+    transition: 0.2s;
 
   }
 

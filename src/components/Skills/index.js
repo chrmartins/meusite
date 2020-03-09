@@ -4,7 +4,6 @@ import { Container } from "./styles";
 export default function Skills() {
   return (
     <Container>
-      
       <h1>Skills</h1>
 
       <p>Javascript</p>

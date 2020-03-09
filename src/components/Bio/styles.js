@@ -27,7 +27,7 @@ export const  TextBio = styled.div`
   
   
   p{
-    padding: 15px;
+    padding: 20px;
     text-align: justify;
     margin-top: 10px;
     margin-left: auto;

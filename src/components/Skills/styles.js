@@ -2,9 +2,10 @@ import styled from "styled-components";
 
 export const Container = styled.div`
   font-family: "Spartan", sans-serif;
-  margin:   30px 15px 30px 15px;
+  margin:   50px 20px 80px 20px;
   padding: 20px;
-  box-shadow: 0 5px 5px rgba(0,0,0,0.1);
+  padding-bottom: 40px;
+  box-shadow:  5px 5px 5px 5px rgba(0,0,0,0.2);
   background: linear-gradient(0deg, #fff, #fff);
   transition: .5s;
   
