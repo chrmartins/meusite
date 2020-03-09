@@ -19,7 +19,7 @@ export default function Experience() {
       <p>
         Confecção de relatórios técnicos com ferramentas informatizadas para
         atender as diretorias e subsidiar respostas às demandas da auditoria
-        interna e externa, e do Tibunal de Contas do Estado do Rio de Janeiro -
+        interna e externa, e do Tribunal de Contas do Estado do Rio de Janeiro -
         TCE.
       </p>
     </Container>
