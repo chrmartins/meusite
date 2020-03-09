@@ -5,7 +5,7 @@ export const Container = styled.div`
   margin:   50px 20px 80px 20px;
   padding: 20px;
   padding-bottom: 40px;
-  box-shadow:  5px 5px 5px 5px rgba(0,0,0,0.2);
+  box-shadow:  5px 5px 5px 5px rgba(0,0,0,0.1);
   background: linear-gradient(0deg, #fff, #fff);
   transition: .5s;
   
